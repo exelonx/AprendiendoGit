@@ -4,9 +4,9 @@ using namespace std;
 int main(){
 	int n{0};
 	setlocale(LC_CTYPE, "Spanish");
-	cout<<"ingrese un número: ";
+	cout<<"ingrese un nÃºmero: ";
 	cin>>n;
 	cout<<endl;
-	cout<<"Su número es: "<<n<<endl;
+	cout<<"Su nÃºmero es: "<<n<<endl<<":)";
 	return 0;
 }
