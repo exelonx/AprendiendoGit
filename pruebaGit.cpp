@@ -10,5 +10,6 @@ int main(){
 	cout<<"Su número es: "<<n<<endl;
 	cout<<"Esto es un pull :)\n\n";
 	cout<<"Esto es un pull Again x2\n\n";
+	cout<<"Esto es un pull otra vez x3\n\n";
 	return 0;
 }
