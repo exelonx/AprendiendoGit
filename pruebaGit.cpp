@@ -8,5 +8,6 @@ int main(){
 	cin>>n;
 	cout<<endl;
 	cout<<"Su número es: "<<n<<endl;
+	cout<<"Esto es un pull :)\n";
 	return 0;
 }
